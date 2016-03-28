@@ -5679,8 +5679,11 @@ html,body {
    background-color: #A9C8E2;
  }
 
- .title {
-
+ .package {
+  border-style: solid;
+  border-color: rgba(102, 102, 102, 0.5);
+  border-width: thick;
+  width: 8em;
  }
 
 .header {
