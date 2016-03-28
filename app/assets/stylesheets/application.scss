@@ -5678,6 +5678,10 @@ html,body {
    width: 200px;
    background-color: #A9C8E2;
  }
+#myCarousel {
+ margin: 0;
+ padding: 0;
+}
 
  .package {
   border-style: solid;
@@ -5715,7 +5719,7 @@ html,body {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   top: 1em;
-    width: 96%;
+    width: 109%;
     margin: auto;
     height: 45em;
 }
