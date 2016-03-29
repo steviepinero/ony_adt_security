@@ -1,2 +1,2 @@
-require 'my_app'
-run MyApp.new
+require './public'
+run Sinatra::Application
