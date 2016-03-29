@@ -166,7 +166,10 @@ header .container-fluid
       rgba(33, 37, 43, 0.6)
     ),
 
-    url('https://farm9.staticflickr.com/8450/7945255162_295e0c482a_b.jpg');
+    url('https://farm3.staticflickr.com/2366/1865090947_0434a8154a_b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-position: center;*/
 }
 
 .prefooter h1,
