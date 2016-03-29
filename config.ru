@@ -1,2 +1,2 @@
-require 'my_app'
+require 'server.rb'
 run MyApp.new
